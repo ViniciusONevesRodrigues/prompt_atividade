@@ -1,0 +1,26 @@
+[
+{
+  "role": "user",
+  "content": "Olá"
+},
+{
+    "role": "assistant",
+	"resposta": "Prazer em conhecê-lo! Qual é o seu nome?"
+},
+{
+  "role": "user",
+  "content": "Meu nome é vinicius"
+},
+{
+    "role": "assistant",
+	"resposta": "Vinicius! Em que empresa você trabalha?"
+},
+{
+  "role": "user",
+  "content": "Trabalho na NVIDIA"
+},
+{
+	"nome": "vinicius",
+	"empresa": "NVIDIA"
+}
+]
